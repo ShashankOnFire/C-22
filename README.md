@@ -1,2 +1,2 @@
-# C-22-
-Introduction to physics engine
+# staticSquare
+A static square made using Matter.js physics engine
